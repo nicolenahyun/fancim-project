@@ -2,8 +2,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F6mini%2Ffancim-project&count_bg=%23AAAAAA&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://github.com/6mini/fancim-project)
 
-
-
+![image](https://user-images.githubusercontent.com/79494088/149819931-86a61380-4b43-45cf-9f47-48b76dca3dac.png)
     
 # Fancim-Project
 일리오의 팬심M 마케팅을 위한 데이터 분석 및 감정 분석 협업 프로젝트
@@ -120,3 +119,18 @@
 - 셀럽의 유형과 팬들의 유형을 나누고 이들의 상성을 비교해볼 수 있음
 - 선호행동, 비호행동 가이드라인 제시
 - 타 플랫폼에 비해 팬심M만의 장점과 개선점 정리본 
+
+---
+
+# 프로젝트 결과
+- 주어진 샘플 데이터 외 추가 데이터 전달 받지 못해 아쉽게 간단한 감정 분석 처리 진행
+
+![image](https://user-images.githubusercontent.com/79494088/149820204-9904d98b-f5d1-4fcf-a6b9-e68bb52b6d8c.png)
+
+![image](https://user-images.githubusercontent.com/79494088/149820230-75ea6b58-43f6-4385-a6f5-59d3bb80c9df.png)
+
+![image](https://user-images.githubusercontent.com/79494088/149820258-6909951b-439a-43c5-92da-6ae7b6db7d8a.png)
+
+![image](https://user-images.githubusercontent.com/79494088/149820280-4793c553-b913-4d8a-b96e-da5687433fe4.png)
+
+![image](https://user-images.githubusercontent.com/79494088/149820294-15501b32-f6ff-4197-b03e-322ac05cad87.png)
