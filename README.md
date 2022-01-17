@@ -1,3 +1,10 @@
+<div align=center>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F6mini%2Ffancim-project&count_bg=%23AAAAAA&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://github.com/6mini/fancim-project)
+
+
+
+    
 # fancim-project
 일리오의 팬심M 마케팅을 위한 데이터 분석 및 감정 분석 협업 프로젝트
 
@@ -20,6 +27,19 @@
         </td>
     </tr>
     <tr height="50px">
+      <td align="center">
+          자연어 처리 모델링
+           <br />
+        </td>
+        <td align="center">
+            데이터 엔지니어링
+            <br />
+        <td align="center">
+            데이터 분석
+            <br />
+        </td>
+    </tr>
+        <tr height="50px">
         <td align="center">
             <a href="https://github.com/nicolenahyun"> GitHub</a>
             <br />
@@ -32,22 +52,11 @@
             <br />
         </td>
     </tr>
-      <tr height="50px">
-        <td align="center">
-            자연어 처리 모델링
-            <br />
-        </td>
-        <td align="center">
-            데이터 엔지니어링
-            <br />
-        <td align="center">
-            데이터 분석
-            <br />
-        </td>
-    </tr>
 </table>
 
-# 일리오 데이터 프로젝트
+</div>
+
+# 일리오 채팅 데이터 감정 분석 프로젝트
 
 ## 기업 소개
 - 한국 1인 미디어 위주의 팬슈머(Fan과 customer의 합성어) 시장에서 팬과 셀럽(1인 미디어 방송인)의 커뮤니티를 관리하고 그들의 상호작용을 통해 수익을 창출하는 스타트업
