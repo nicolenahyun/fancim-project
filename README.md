@@ -1,6 +1,52 @@
 # fancim-project
 일리오의 팬심M 마케팅을 위한 데이터 분석 및 감정 분석 협업 프로젝트
 
+<table>
+    <tr height="160px">
+        <td align="center" width="150px">
+            <a href="https://github.com/ljs7463"><img height="120px" width="120px" src="https://avatars.githubusercontent.com/u/87054081?v=4"/></a>
+            <br />
+            <strong>박나현</strong>
+        </td>
+        <td align="center" width="150px">
+            <a href="https://github.com/leehj01"><img height="120px" width="120px" src="https://avatars.githubusercontent.com/u/79494088?v=4"/></a>
+            <br />
+            <strong>이윤민</strong>
+        </td>
+        <td align="center" width="150px">
+            <a href="https://github.com/reeesource"><img height="120px" width="120px" src="https://avatars.githubusercontent.com/u/76740971?v=4"/></a>
+            <br />
+            <strong>이윤수</strong>
+        </td>
+    </tr>
+    <tr height="50px">
+        <td align="center">
+            <a href="https://github.com/nicolenahyun"> GitHub</a>
+            <br />
+        </td>
+        <td align="center">
+            <a href="https://github.com/6mini"> GitHub</a>
+            <br />
+        <td align="center">
+            <a href="https://github.com/Yuns-u"> GitHub</a>
+            <br />
+        </td>
+    </tr>
+      <tr height="50px">
+        <td align="center">
+            자연어 처리 모델링
+            <br />
+        </td>
+        <td align="center">
+            데이터 엔지니어링
+            <br />
+        <td align="center">
+            데이터 분석
+            <br />
+        </td>
+    </tr>
+</table>
+
 # 일리오 데이터 프로젝트
 
 ## 기업 소개
